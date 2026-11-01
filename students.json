@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "bhupendra",
+        "department": "b.tech",
+        "marks": {
+            "Python": 66.0,
+            "Maths": 78.0,
+            "DBMS": 79.0
+        }
+    },
+    "2": {
+        "name": "shiv",
+        "department": "b.tech",
+        "marks": {
+            "Python": 66.0,
+            "Maths": 79.0,
+            "DBMS": 87.0
+        }
+    }
+}
